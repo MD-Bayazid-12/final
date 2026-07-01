@@ -1,0 +1,8 @@
+C:\bayazid\question2\bin\Debug\question2.exe.config
+C:\bayazid\question2\bin\Debug\question2.exe
+C:\bayazid\question2\bin\Debug\question2.pdb
+C:\bayazid\question2\obj\Debug\question2.csproj.AssemblyReference.cache
+C:\bayazid\question2\obj\Debug\question2.csproj.CoreCompileInputs.cache
+C:\bayazid\question2\obj\Debug\question2.exe
+C:\bayazid\question2\obj\Debug\question2.pdb
+C:\bayazid\question2\obj\Debug\question2.exe.config

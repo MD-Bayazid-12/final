@@ -1,0 +1,7 @@
+C:\bayazid\Question3\bin\Debug\Question3.exe.config
+C:\bayazid\Question3\bin\Debug\Question3.exe
+C:\bayazid\Question3\bin\Debug\Question3.pdb
+C:\bayazid\Question3\obj\Debug\Question3.csproj.AssemblyReference.cache
+C:\bayazid\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+C:\bayazid\Question3\obj\Debug\Question3.exe
+C:\bayazid\Question3\obj\Debug\Question3.pdb

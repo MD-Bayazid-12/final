@@ -1,0 +1,7 @@
+C:\bayazid\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\bayazid\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\bayazid\calculator\bin\Debug\calculator.exe.config
+C:\bayazid\calculator\bin\Debug\calculator.exe
+C:\bayazid\calculator\bin\Debug\calculator.pdb
+C:\bayazid\calculator\obj\Debug\calculator.exe
+C:\bayazid\calculator\obj\Debug\calculator.pdb
